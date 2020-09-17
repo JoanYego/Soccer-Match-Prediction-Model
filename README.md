@@ -21,7 +21,7 @@ Various Python Libraries
 
 # Usage
 
-This project demonstrates how regression can be applied on a prediction model for a data science project.
+This project demonstrates how regression can be applied on a prediction model and can be replicated for amy similar data science project.
 
 # Contributors
 
